@@ -26,7 +26,7 @@ what is work done on our project?
       7. Make a sales report for the year and month.
 
 
-          in this EDA project, I am learning how to find insights into data sets by using data visualization techniques. this project also finds business-related problems, how to impact which variable impact in the sales price, and making sales reports.  
+          in this EDA project, I am learning how to find insights into data sets by using data visualization techniques. this project also finds business-related problems, how to impact which variable impacts the sales price, and making sales reports.  
 
 
       
