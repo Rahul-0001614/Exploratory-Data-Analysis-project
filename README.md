@@ -17,7 +17,13 @@ Exploratory data analysis methods:-
 
 what is work done on our project?
 
-1. for example load dataset in vs code is real 
+1. for example load dataset in vs code is real estate pricing
+2. drop duplicates of data
+3. data cleaning
+4. EDA data analysis
+5. standardization method apply
+6. find insights into how to impact different amenities in sale price.
+7. Make a sales report for the year and month. 
 
 
       
