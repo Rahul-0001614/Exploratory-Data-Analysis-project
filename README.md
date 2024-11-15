@@ -15,6 +15,11 @@ Exploratory data analysis methods:-
                   -  bivariate analysis
                   -  multivariate analysis
 
+what is work done on our project?
+
+1. for example load dataset in vs code is real 
+
+
       
                                 
      
